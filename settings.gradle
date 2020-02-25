@@ -1,0 +1,2 @@
+include ':app', ':layouts'
+rootProject.name='My Application'

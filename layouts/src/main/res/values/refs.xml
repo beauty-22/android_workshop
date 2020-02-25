@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="edittext_background">UserName</drawable>
+    <drawable name="editext_background">UserName</drawable>
+    <drawable name="button_background">LogIn</drawable>
+</resources>

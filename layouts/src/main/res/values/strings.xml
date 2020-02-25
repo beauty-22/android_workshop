@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="first_name">beauty</string>
+    <string name="last_name">beauty</string>
+    <string name="middle_name">beauty</string>
+    <string name="password">LogIn</string>
+    <string name="Email">Email</string>
+    <string name="confirmpassword">confirmpassword</string>
+    <string name="username">UserName</string>
+    <string name="UserName">UserName</string>
+    <string name="passwordPassword">Password</string>
+    <string name="Password">Password</string>
+    <string name="log_in">LogIn</string>
+    <string name="login">LogIn</string>
+    <string name="LogIn">LogIn</string>
+</resources>
