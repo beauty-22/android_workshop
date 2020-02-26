@@ -26,7 +26,8 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.jelly,R.drawable.jelly2,R.drawable.kitkat,R.drawable.lollipop,R.drawable.oreo,R.drawable.pink};
         names=new String[]{"cupcake","choco","donut","jelly","jelly2","kitkat","lollipop","oreo","pink"};
         LinearLayoutManager linearLayoutManager= new LinearLayoutManager(MainActivity.this);
-        VersionAdapter adapter=new VersionAdapter(MainActivity.this,getList(images,names));
+
+        VersionAdapter adapter=new VersionAdapter(MainActivity.this,getList(images,names),this);
         recyclerView.setLayoutManager(linearLayoutManager);
         recyclerView.setAdapter(adapter);
 
