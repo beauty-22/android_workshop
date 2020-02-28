@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../My Application.iml" filepath="$PROJECT_DIR$/../My Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fragmentactivity/fragmentactivity.iml" filepath="$PROJECT_DIR$/../fragmentactivity/fragmentactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../layouts/layouts.iml" filepath="$PROJECT_DIR$/../layouts/layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../navigationdraweractivity/navigationdraweractivity.iml" filepath="$PROJECT_DIR$/../navigationdraweractivity/navigationdraweractivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview.iml" />
+    </modules>
+  </component>
+</project>
