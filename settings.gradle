@@ -1,2 +1,2 @@
-include ':app', ':layouts', ':recyclerview', ':navigationdraweractivity', ':fragmentactivity', ':retrofit', ':localstorage', ':camerademo'
+include ':app', ':layouts', ':recyclerview', ':navigationdraweractivity', ':fragmentactivity', ':retrofit', ':localstorage', ':camerademo', ':task'
 rootProject.name='My Application'

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="dob">DOB</string>
+    <string name="save">save</string>
+    <string name="log_in">Log In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
